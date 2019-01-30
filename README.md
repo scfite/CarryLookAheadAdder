@@ -1,5 +1,6 @@
 # CarryLookAheadAdder
 A simulated carry look ahead adder that takes in two 1024 bit hex numbers and prints their sum.
+See cla.pdf for detailed explanation of the process.
 
 # Usage
 After compiling with either gcc or clang
